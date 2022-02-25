@@ -1,0 +1,36 @@
+What is Numerical Data?
+	Numerical Data is a data type expressed in numbers,rather than natural language description. It is also called as Qunatitative data.Numerical data differentiates itself from other number form data types with its ability to carry out arithmetic operations with these numbers.
+
+What are the Types of Numerical Data?
+	1.Discrete data
+	2.Continous data
+	    i)interval data
+	    ii) ratio data
+	    
+1.Dicrete Data
+	Discrete Data represents countable items and can take both numerical and categorical forms, depending on usage.Possible of count(finite memebers)
+	
+2.Continuous data
+	Continuous data represents measurements - their values are described as intervals on a number line, rather than take counting numbers.impossible to count(but uncountably finite)
+	
+  Interval Data
+  	This is a data type measured along a scale, in which each point is placed at an equal distance from one another.Interval data takes numerical values that can only take the addition and subtraction operations.
+  	
+  Ratio Data
+  	Ratio data is a continuous data type similar to interval data but has a zero point. In other words, ratio data is interval data wtih zero points.
+ 
+Examples of Numerical Data
+		1.Census   			--  Countably finite discrete data
+		2.Temperature			--  Continuous Interval data
+		3.Age 				--  finite dicrete data
+		4.Mark Grading			--  continuous data
+		5.Annual income		--  finite discrete data	
+		6.Time 			--  Continuous data
+		7.Height			--  Continuous data
+		8.IQ Test			--  Continuous data 
+		9.Weight			--  Continuous data
+		10.CGPA 			--  discrete data
+		11.The no of children   	--  discrete data
+		12The no of student 		--  discrete data
+		13.Result of Rolling a dice 	--  discrete data
+  		14.Length of a person		--  continous data
